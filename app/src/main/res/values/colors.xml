@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    // Project Colors
+
+    <color name="grey_400">#595858</color>
+    <color name="grey_500">#3A3A3A</color>
+    <color name="blue_500">#145F9F</color>
 </resources>
