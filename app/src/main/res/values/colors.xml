@@ -10,7 +10,9 @@
 
     // Project Colors
 
+    <color name="grey_200">#BDBBBB</color>
     <color name="grey_400">#595858</color>
     <color name="grey_500">#3A3A3A</color>
     <color name="blue_500">#145F9F</color>
+    <color name="red_500">#C82020</color>
 </resources>
